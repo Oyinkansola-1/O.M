@@ -23,7 +23,8 @@ My mission is to help businesses and individuals leverage data to unlock insight
 - Data Analysis and Visualization
 - Audio Transcription
 - Research and Report Writing
-  **Soft Skills:**
+
+   **Soft Skills:**
 - Critical Thinking | Problem-Solving | Teamwork | Googling 
 
 - ## 📬 Connect With Me
